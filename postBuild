@@ -4,4 +4,5 @@ jupyter nbextension enable init_cell/main
 
 jupyter trust oscilador-amortiguado-forzado/Oscilador\ Amoritguado\ y\ Forzado.ipynb
 jupyter trust modos-normales/Pendulos\ Acoplados.ipynb
+jupyter trust modos-normales/Cadena\ Lineal\ Masas.ipynb
 jupyter trust fourier/Calculo\ de\ serie\ Fourier.ipynb 
