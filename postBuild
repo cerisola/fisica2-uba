@@ -6,3 +6,4 @@ jupyter trust oscilador-amortiguado-forzado/Oscilador\ Amoritguado\ y\ Forzado.i
 jupyter trust modos-normales/Pendulos\ Acoplados.ipynb
 jupyter trust modos-normales/Cadena\ Lineal\ Masas.ipynb
 jupyter trust fourier/Calculo\ de\ serie\ Fourier.ipynb 
+jupyter trust fourier/Serie\ de\ Fourier\ para\ condiciones\ iniciales\ \(extremos\ fijos\).ipynb
